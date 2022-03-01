@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/text-to-speech/static/css/main.35aecaba.css",
+    "main.js": "/text-to-speech/static/js/main.de935a72.js",
+    "static/media/wave.gif": "/text-to-speech/static/media/wave.d5e7e8ca4a3c9804e146.gif",
+    "index.html": "/text-to-speech/index.html",
+    "main.35aecaba.css.map": "/text-to-speech/static/css/main.35aecaba.css.map",
+    "main.de935a72.js.map": "/text-to-speech/static/js/main.de935a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35aecaba.css",
+    "static/js/main.de935a72.js"
+  ]
+}
